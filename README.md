@@ -31,8 +31,8 @@ You'll need a C compiler (like `gcc` or `clang`) and `make` installed on your sy
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/saksham-2000/wisconsin-shell
-   cd wisconsin-shell
+   git clone https://github.com/saksham-2000/walter-shell
+   cd walter-shell
    ```
 
 2. **Compile the source code:**
