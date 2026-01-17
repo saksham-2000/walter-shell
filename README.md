@@ -214,4 +214,4 @@ Built as an exploration of operating systems fundamentals, leveraging concepts f
 
 **Author**: Saksham  
 **GitHub**: [@saksham-2000](https://github.com/saksham-2000)  
-**Project Link**: [https://github.com/saksham-2000/wisconsin-shell](https://github.com/saksham-2000/wisconsin-shell)
+**Project Link**: [https://github.com/saksham-2000/walter-shell](https://github.com/saksham-2000/walter-shell)
